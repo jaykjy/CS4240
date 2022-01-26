@@ -1,2 +1,2 @@
-# CS4240
-Labs and assignments for CS4240
+# CS4240 Virtual and Augmented Reality for Interactive Design
+Labs and assignments
